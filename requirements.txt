@@ -1,6 +1,6 @@
 Django==2.2.24
-Pillow==2.3.0
-PyYAML==5.3.1
+Pillow==8.3.0
+PyYAML==5.4
 South==0.8.4
 argparse==1.2.1
 cov-core==1.13.0
@@ -10,7 +10,7 @@ distribute==0.7.3
 django-appconf==0.6
 django-avatar==2.0
 django-compressor==1.4
-django-countries==2.1.2
+django-countries==3.4
 django-countries-plus==0.3
 django-debug-toolbar==1.11.1
 django-endless-pagination==2.0
@@ -18,21 +18,21 @@ django-geoposition==0.1.5
 django-taggit==0.11.2
 django-settings-export
 docopt==0.6.2
-ipython==1.2.0
-oauthlib==0.6.3
-py==1.4.23
+ipython==3.2.2
+oauthlib==0.7.0
+py==1.10.0
 pytest==2.6.0
 pytest-cov==1.7.0
 -e git+https://github.com/pelme/pytest_django.git@f10e48d4fb7bca3fa2640f6f1c74c4c10655c76d#egg=pytest_django
 python-openid==2.2.5
 python-social-auth==0.1.26
-requests==2.2.1
+requests==2.20
 requests-oauthlib==0.4.2
 six==1.5.2
-sqlparse==0.1.11
+sqlparse==0.4.2
 wsgiref==0.1.2
 dj-static==0.0.5
-djangorestframework==2.4.2
+djangorestframework==3.11.2
 Markdown==2.4.1
 django-cleanup==0.1.10
 factory-boy==2.4.1
