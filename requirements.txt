@@ -19,14 +19,14 @@ django-taggit==0.11.2
 django-settings-export
 docopt==0.6.2
 ipython==1.2.0
-oauthlib==0.6.3
+oauthlib==0.7.0
 py==1.4.23
 pytest==2.6.0
 pytest-cov==1.7.0
 -e git+https://github.com/pelme/pytest_django.git@f10e48d4fb7bca3fa2640f6f1c74c4c10655c76d#egg=pytest_django
 python-openid==2.2.5
 python-social-auth==0.1.26
-requests==2.2.1
+requests==2.20
 requests-oauthlib==0.4.2
 six==1.5.2
 sqlparse==0.1.11
