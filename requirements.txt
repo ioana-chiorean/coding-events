@@ -18,7 +18,7 @@ django-geoposition==0.1.5
 django-taggit==0.11.2
 django-settings-export
 docopt==0.6.2
-ipython==1.2.0
+ipython==8.10.0
 oauthlib==0.6.3
 py==1.4.23
 pytest==2.6.0
