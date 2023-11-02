@@ -20,7 +20,7 @@ django-settings-export
 docopt==0.6.2
 ipython==1.2.0
 oauthlib==0.6.3
-py==1.4.23
+py==1.10.0
 pytest==2.6.0
 pytest-cov==1.7.0
 -e git+https://github.com/pelme/pytest_django.git@f10e48d4fb7bca3fa2640f6f1c74c4c10655c76d#egg=pytest_django
