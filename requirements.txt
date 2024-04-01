@@ -1,5 +1,5 @@
 Django==2.2.24
-Pillow==2.3.0
+Pillow==10.3.0
 PyYAML==5.3.1
 South==0.8.4
 argparse==1.2.1
@@ -22,7 +22,7 @@ ipython==1.2.0
 oauthlib==0.6.3
 py==1.4.23
 pytest==2.6.0
-pytest-cov==1.7.0
+pytest-cov==2.0.0
 -e git+https://github.com/pelme/pytest_django.git@f10e48d4fb7bca3fa2640f6f1c74c4c10655c76d#egg=pytest_django
 python-openid==2.2.5
 python-social-auth==0.1.26
