@@ -29,7 +29,7 @@ python-social-auth==0.1.26
 requests==2.2.1
 requests-oauthlib==0.4.2
 six==1.5.2
-sqlparse==0.1.11
+sqlparse==0.5.0
 wsgiref==0.1.2
 dj-static==0.0.5
 djangorestframework==2.4.2
